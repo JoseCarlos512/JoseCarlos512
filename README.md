@@ -12,8 +12,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
+const Jose = {
+    year: "2022",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "anime"],
     technologies: {
@@ -31,7 +31,7 @@ const anmol = {
         databases: ["mongo", "MySql", "SqlServer", "Oracle"],
         misc: ["Firebase", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications"],
     currentProject: "I am developing an api for electronic invoicing",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
