@@ -14,13 +14,13 @@
 ```javascript
 const Jose = {
     year: "2022",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "anime"],
+    code: ["Javascript", "Typescript", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "Angular"],
-            css: ["materialize", "vuetify", "bootstrap", "Angular Material"]
+            css: ["vuetify", "bootstrap", "Angular Material"]
         },
         backEnd: {
             js: ["node"],
@@ -29,11 +29,10 @@ const Jose = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "SqlServer", "Oracle"],
-        misc: ["Firebase", "php", "SuiteApp"]
+        misc: ["Firebase", "php", "Heroku", "Wordpress"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing an api for electronic invoicing",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentProject: "I am developing an api for electronic invoicing"
 };
 ```
 
