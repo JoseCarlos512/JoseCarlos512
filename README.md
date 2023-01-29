@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Jose Carlos! 👨‍</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">National Technological University of South Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer at <a href="https://www.thoughtworks.com">Deister Software</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="http://www.untels.edu.pe">National Technological University of South Lima</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer <!-- at <a href="https://www.thoughtworks.com">Deister Software</a>--><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: @JoseCar91160470](https://img.shields.io/twitter/follow/JoseCar91160470?style=social)](https://twitter.com/JoseCar91160470)
@@ -12,10 +12,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Jose = {
-    year: "2022",
+const SeCa = {
+    year: "2023",
     code: ["Javascript", "Typescript", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    learningProcess: ["AWS", "Docker🐳", "Spring boot"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -28,11 +28,11 @@ const Jose = {
             php: ["Laravel"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "SqlServer", "Oracle"],
-        misc: ["Firebase", "php", "Heroku", "Wordpress"]
+        databases: ["MySql", "SqlServer", "Oracle", "informix", "mongoDB"],
+        others: ["Firebase", "Heroku", "Wordpress"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing an api for electronic invoicing"
+    currentProjects: "I am developing a profile me app in Angular and Node.js"
 };
 ```
 
