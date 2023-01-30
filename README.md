@@ -24,7 +24,7 @@ const SeCa = {
         },
         backEnd: {
             js: ["node"],
-            java: ["Spring boot", "Spring MVC"],
+            java: ["Spring"],
             php: ["Laravel"]
         },
         devOps: ["AWS", "Docker🐳"],
