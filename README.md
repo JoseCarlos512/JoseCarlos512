@@ -14,7 +14,7 @@
 ```javascript
 const SeCa = {
     year: "2023",
-    code: ["Javascript", "Typescript", "Java", "php"],
+    code: ["Javascript", "Typescript", "Java", "php", "C#"],
     learningProcess: ["AWS", "Docker🐳", "Spring boot"],
     technologies: {
         mobileApp: ["Android App"],
@@ -25,7 +25,8 @@ const SeCa = {
         backEnd: {
             js: ["node"],
             java: ["Spring"],
-            php: ["Laravel"]
+            php: ["Laravel"],
+            C#: [".NET"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["MySql", "SqlServer", "Oracle", "informix", "mongoDB"],
